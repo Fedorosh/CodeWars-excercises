@@ -1,0 +1,11 @@
+C:\Users\Fedorosh\Documents\Programmin\C#\code_wars\Code_wars\Code_wars\bin\Debug\netcoreapp3.1\Code_wars.exe
+C:\Users\Fedorosh\Documents\Programmin\C#\code_wars\Code_wars\Code_wars\bin\Debug\netcoreapp3.1\Code_wars.deps.json
+C:\Users\Fedorosh\Documents\Programmin\C#\code_wars\Code_wars\Code_wars\bin\Debug\netcoreapp3.1\Code_wars.runtimeconfig.json
+C:\Users\Fedorosh\Documents\Programmin\C#\code_wars\Code_wars\Code_wars\bin\Debug\netcoreapp3.1\Code_wars.runtimeconfig.dev.json
+C:\Users\Fedorosh\Documents\Programmin\C#\code_wars\Code_wars\Code_wars\bin\Debug\netcoreapp3.1\Code_wars.dll
+C:\Users\Fedorosh\Documents\Programmin\C#\code_wars\Code_wars\Code_wars\bin\Debug\netcoreapp3.1\Code_wars.pdb
+C:\Users\Fedorosh\Documents\Programmin\C#\code_wars\Code_wars\Code_wars\obj\Debug\netcoreapp3.1\Code_wars.csprojAssemblyReference.cache
+C:\Users\Fedorosh\Documents\Programmin\C#\code_wars\Code_wars\Code_wars\obj\Debug\netcoreapp3.1\Code_wars.AssemblyInfoInputs.cache
+C:\Users\Fedorosh\Documents\Programmin\C#\code_wars\Code_wars\Code_wars\obj\Debug\netcoreapp3.1\Code_wars.AssemblyInfo.cs
+C:\Users\Fedorosh\Documents\Programmin\C#\code_wars\Code_wars\Code_wars\obj\Debug\netcoreapp3.1\Code_wars.dll
+C:\Users\Fedorosh\Documents\Programmin\C#\code_wars\Code_wars\Code_wars\obj\Debug\netcoreapp3.1\Code_wars.pdb
